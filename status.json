@@ -1,7 +1,7 @@
 {
- "checked_at": "2026-10-30T15:29:21Z",
+ "checked_at": "2026-10-30T16:29:27Z",
  "server_ok": true,
- "tunnel_ok": false,
+ "tunnel_ok": true,
  "disk_ok": true,
  "free_gb": 5626
 }
